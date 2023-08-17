@@ -1,7 +1,4 @@
 FE DE ERRATAS
 
-<<<<<<< HEAD
-El tErmino de la pagima  15 es impreSiso
-=======
-El termino de la pagina (por lo general) 15 es impreciso.
->>>>>>> f92c594 (CORRECCION DE ORTOGRAFIA)
+El termino de la pagina  15 es impreciso.
+
