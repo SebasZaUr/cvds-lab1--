@@ -2,9 +2,9 @@
 ![ ](https://img.freepik.com/fotos-premium/pirata-informatico-capucha-usando-computadora-portatil-graficos-negocios-creativos-abstractos-codigo-binario-fondo-interior-oficina-borrosa-ingenieria-sistemas-concepto-transformacion-digital-doble-exposicion_670147-16101.jpg)
 ## INFORMACION PERSONAL 
 
-* **NOMBRE:** * Cesar*
-* **GENERO:** * MASCULINO*
-* **CARRERA:** * iNG. DE SISTEMAS*
+* **NOMBRE:** *Cesar*
+* **GENERO:** *MASCULINO*
+* **CARRERA:** *iNG. DE SISTEMAS*
 ### DESCRIPION
 Soy una persona muy activa, que le gustan los deportes y las actividades al aire libre.
 
