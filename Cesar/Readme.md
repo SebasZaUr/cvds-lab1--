@@ -13,12 +13,13 @@ pero tambien me usta jugar videojuegos, dormir o ver peliculas.
 si me desean encontrar en mis redes sociales las dejo en los siguientes enlaces:
 
 1. [INSTAGRAM](https://instagram.com/cesar_am01?igshid=MzRlODBiNWFlZA==)
-2. [WHATSAPP] (https://api.whatsapp.com/send/?phone=%2B573185469197&text&type=phone_number&app_absent=0)
+2. [WHATSAPP] (wa.me/+573185469197)
 
 
 y recuerda
-` 2 + 2 = 22;
-
+``` 
+2 + 2 = 22;
+```
 
 
 
