@@ -21,7 +21,7 @@
 
 
 ![](principal.png)
-![](repositorio.png)
+![](remota.png)
 
 
 ```
