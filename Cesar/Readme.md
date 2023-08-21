@@ -21,6 +21,7 @@ y recuerda
 2 + 2 = 22;
 ```
 
-
+![Principal](PRINCIPAL.png)
+![Remota](REMOTA.png)
 
 
